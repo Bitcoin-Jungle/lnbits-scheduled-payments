@@ -1,0 +1,9 @@
+{
+    "repos": [
+        {
+            "id": "scheduledpayments",
+            "organisation": "Bitcoin-Jungle",
+            "repository": "lnbits-scheduled-payments"
+        }
+    ]
+}
